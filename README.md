@@ -1,6 +1,5 @@
 # Galeria-de-Fotos
-Projeto Criado com intuido de se estudar o uso da Storage do FIrebase. Como funciona as funcionalidades de upload, delet, e get, que o mesmo disponibiliza.
-Para isso foi criada uma galeria de fotos, que disponibilizar todas essas funções.
+Projeto Criado com intuído de se estudar o uso da Storage do Firebase. Como funciona as funcionalidades de upload, delet, e get, que o mesmo disponibiliza. Para isso foi criada uma galeria de fotos, que disponibilizar todas essas funções.
   <div align='center'> 
     <img src="https://user-images.githubusercontent.com/98929007/174928349-ca043c4c-ff78-4ab0-be72-05cc74274693.mp4" />
   </div>
